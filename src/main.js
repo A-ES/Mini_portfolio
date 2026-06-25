@@ -335,7 +335,7 @@ manager.onLoad = function () {
     loadingScreenButton.style.background = "#ead7ef";
     loadingScreenButton.style.color = "#6e5e9c";
     loadingScreenButton.style.boxShadow = "none";
-    loadingScreenButton.textContent = "Welcome to Minnies Room-Folio";
+    loadingScreenButton.textContent = "Welcome to Minnie Portfolio";
     loadingScreen.style.background = "#ead7ef";
     isDisabled = true;
 
